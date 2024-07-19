@@ -1,0 +1,15 @@
+/* TODO: choose better font */
+
+table, th, td {
+    border: .3em black;
+    border-collapse: collapse;
+    border-style: double;
+}
+
+td {
+    padding: 0.5rem 1rem 0.5rem 1rem;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #dddddd;
+}
