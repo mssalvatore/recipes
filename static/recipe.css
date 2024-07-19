@@ -13,3 +13,8 @@ td {
 tbody tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
