@@ -24,8 +24,8 @@
    thermometer).
 4. Strain through a fine-mesh sieve into a bowl.
 5. Optionally add vanilla extract.
-6. Chill in refrigerator overnight (1C)
-7. Pre-chill a bowl in the freezer (as cold as possible, ideally -30C)
+6. Chill in refrigerator overnight (1C).
+7. Pre-chill a bowl in the freezer (as cold as possible, ideally -30C).
 8. Churn in an ice cream machine.
 
 

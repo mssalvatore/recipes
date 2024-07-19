@@ -14,7 +14,7 @@ See [ice cream base](ice-cream-base.md). Add the following:
 1. Heat the cinnamon in a small, dry pan over low heat. Keep it moving until it
    becomes fragrant; about 1 minute.
 2. Follow the directions for the [ice cream base](ice-cream-base.md). Add the
-   cinnamon in step 1.
+   cinnamon during step 1.
 
 
 ## Sources
