@@ -31,4 +31,4 @@
 
 ## Sources
 
-- https://cooking.nytimes.com/recipes/1016605-the-only-ice-cream-recipe-youll-ever-need
+- <https://cooking.nytimes.com/recipes/1016605-the-only-ice-cream-recipe-youll-ever-need>

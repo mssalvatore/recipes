@@ -58,4 +58,4 @@
 
 ## Sources
 
-- https://www.bbc.co.uk/food/recipes/brandy_snaps_47363
+- <https://www.bbc.co.uk/food/recipes/brandy_snaps_47363>

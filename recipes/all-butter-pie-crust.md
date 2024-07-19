@@ -43,4 +43,4 @@
 
 ## Sources
 
-- https://www.kingarthurbaking.com/recipes/all-butter-pie-crust-recipe
+- <https://www.kingarthurbaking.com/recipes/all-butter-pie-crust-recipe>

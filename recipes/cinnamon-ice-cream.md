@@ -19,5 +19,5 @@ See [ice cream base](ice-cream-base.md). Add the following:
 
 ## Sources
 
-- https://www.simplyrecipes.com/recipes/cinnamon_ice_cream/
-- https://www.allrecipes.com/recipe/48036/cinnamon-ice-cream/
+- <https://www.simplyrecipes.com/recipes/cinnamon_ice_cream/>
+- <https://www.allrecipes.com/recipe/48036/cinnamon-ice-cream/>
