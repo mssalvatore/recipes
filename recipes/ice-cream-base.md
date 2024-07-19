@@ -5,9 +5,9 @@
 | Ingredient | Quantity |
 | --- | --- |
 | Egg yolks (large) | 6 |
-| Granulated sugar | 175g (2/3 cup) |
+| Granulated sugar | 175g ($\frac{2}{3}$ cup) |
 | Heavy cream | 482g (2 cups) |
-| Salt | 1/8 tsp |
+| Salt | $\frac{1}{8}$ tsp |
 | Vanilla extract (optional) | 2 tsp |
 | Whole milk | 250g (1 cup) |
 

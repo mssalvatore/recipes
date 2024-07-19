@@ -6,7 +6,7 @@
 | --- | --- |
 | Garlic Paste | 2 cloves |
 | Ketchup | 80g |
-| Lime (Optional) | 1/2 |
+| Lime (Optional) | $\frac{1}{2}$ lime |
 | Mayonnaise | 120g |
 
 ## Yield

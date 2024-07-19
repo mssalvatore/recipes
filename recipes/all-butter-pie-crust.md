@@ -36,7 +36,7 @@
 
 ## Notes
 
-- If you use salted butter, reduce the salt in the recipe to 1/2 tsp.
+- If you use salted butter, reduce the salt in the recipe to $\frac{1}{2}$ tsp.
 - If you're not planning on using all of the crust, the excess can be stored in
   the freezer.
 

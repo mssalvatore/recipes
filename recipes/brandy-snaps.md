@@ -7,8 +7,8 @@
 | Butter | 55g |
 | Demarara sugar | 55g |
 | Golden syrup (light treacle) | 55g |
-| Ground ginger | 1/2 tsp |
-| Lemon juice | 1/2 tsp |
+| Ground ginger | $\frac{1}{2}$ tsp |
+| Lemon juice | $\frac{1}{2}$ tsp |
 | Plainflour | 50g |
 
 
