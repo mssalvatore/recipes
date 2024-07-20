@@ -10,9 +10,11 @@
         }
     }
     function addColumns() {
+        let title = document.createElement("div");
         let left_column = document.createElement("div");
         let right_column = document.createElement("div");
 
+        title.id = "title";
         left_column.id = "left-column";
         right_column.id = "right-column";
 
@@ -48,16 +50,18 @@
         left_column.append(...left_column_elements);
         right_column.append(...right_column_elements);
 
-        let title = document.querySelector("h1");
-        //let divider = document.createElement("hr");
+        let h1 = document.querySelector("h1");
+        let divider = document.createElement("hr");
         //divider.id="title-divider";
 
         while (outer_section.firstChild) {
             outer_section.removeChild(outer_section.lastChild);
         }
 
+        title.appendChild(h1);
+        title.appendChild(divider);
+
         outer_section.appendChild(title);
-        //outer_section.appendChild(divider);
         outer_section.appendChild(left_column);
         outer_section.appendChild(right_column);
     }

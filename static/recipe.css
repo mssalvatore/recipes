@@ -2,9 +2,10 @@
 
 .level1 {
     display: grid;
-    grid-template-columns: [first] 1fr [col2] 2fr [end];
+    grid-template-columns: [first] 19fr [col2] 31fr [end];
     grid-auto-flow: row dense;
-    gap: 2em;
+    column-gap: 2em;
+    row-gap: 1em;
 }
 
 table, th, td {
@@ -38,23 +39,35 @@ section {
     break-inside: avoid;
 }
 
-h1 {
+#title {
     grid-row: 1;
     grid-column: 1 / span 2;
-    justify-self: center;
     margin: 0;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
     font-size: 2em;
+    margin: 0;
+}
+
+#title > hr {
+    margin: auto;
+    width: 50%;
+    border-top: 4px solid #bbb;;
+    border-radius: 3px;
 }
 
 #left-column {
     grid-row:2;
     grid-column: 1;
 }
+
 #right-column {
     grid-row:2;
     grid-column: 2;
 }
-
 
 h2 {
     margin-top: 0;
