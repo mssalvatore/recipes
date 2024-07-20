@@ -41,8 +41,9 @@ section {
 h1 {
     grid-row: 1;
     grid-column: 1 / span 2;
-    justify-self: start;
+    justify-self: center;
     margin: 0;
+    font-size: 2em;
 }
 
 #left-column {
