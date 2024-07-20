@@ -1,4 +1,4 @@
-# Almond galette
+# Almond Galette
 
 ## Ingredients
 

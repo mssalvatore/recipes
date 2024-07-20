@@ -1,4 +1,4 @@
-# Peach pie
+# Peach Pie
 
 ## Ingredients
 
@@ -13,7 +13,7 @@
 | Salt | $\frac{1}{8}$ tsp |
 | Lemon Juice | 2 tsp |
 | Butter | 1 tbsp |
-| Egg, lightly beaten (for an egg wash) | 1 egg |
+| Egg, lightly beaten 🖌️ | 1 egg |
 
 
 ## Directions

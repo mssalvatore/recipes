@@ -1,4 +1,4 @@
-# All-butter pie crust
+# All-Butter Pie Crust
 
 ## Ingredients
 
