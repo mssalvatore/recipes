@@ -74,7 +74,6 @@
     and golden-brown. Set aside to cool slightly before serving.
 
 
-
 ## Sources
 
 - <https://www.bbc.co.uk/food/recipes/marys_galette_38999>

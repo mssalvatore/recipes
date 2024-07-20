@@ -17,11 +17,16 @@
 ## Directions
 
 1. Mix maseca, salt, and water together in a bowl.
+
 2. Knead by hand until the dough is smooth and comes away from the sides of the
    bowl.
+
 3. Let sit for 20 minutes after kneading.
+
 4. Divide into pieces (about 50g each) and roll into balls.
+
 5. Press into tortillas.
+
 6. Cook on a comal/griddle (500f) for about 1 minute per side or until fully
    cooked.
 
