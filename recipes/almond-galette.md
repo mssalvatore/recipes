@@ -8,7 +8,7 @@
 | --- | --- |
 | [Homemade puff pastry](homemade-puff-pastry.md) | 750g |
 | Plain flour (for dusting) | N/A |
-| Egg, lightly beaten (for an egg wash) | 1 egg |
+| Egg, lightly beaten 🖌️ | 1 egg |
 
 
 ### Filling
