@@ -1,5 +1,12 @@
 /* TODO: choose better font */
 
+.level1 {
+    display: grid;
+    grid-template-columns: [first] 1fr [col2] 2fr [end];
+    grid-auto-flow: row dense;
+    gap: 2em;
+}
+
 table, th, td {
     border: .3em black;
     border-collapse: collapse;
@@ -21,4 +28,37 @@ a {
 
 li {
     margin-bottom: 0.6em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    break-after: avoid;
+}
+
+section {
+    break-inside: avoid;
+}
+
+h1 {
+    grid-row: 1;
+    grid-column: 1 / span 2;
+    justify-self: start;
+    margin: 0;
+}
+
+#left-column {
+    grid-row:2;
+    grid-column: 1;
+}
+#right-column {
+    grid-row:2;
+    grid-column: 2;
+}
+
+
+h2 {
+    margin-top: 0;
+}
+
+.level2 {
+    margin-bottom: 16px;
 }

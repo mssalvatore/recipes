@@ -1,17 +1,18 @@
 @page {
     margin: 0.5in;
-    size: letter portrait;
-    margin-top: 0in;
+    size: letter landscape;
+    margin: 0.25in;
 }
 
 @media print {
     body {
-        font-size: 14pt;
+        font-size: 9pt;
     }
 
 
     h1 {
         margin-top: 0;
+        margin-bottom: 0in;
     }
 
     ul, ol{
@@ -19,7 +20,7 @@
         break-inside: avoid;
     }
 
-    #directions, #notes, #tips {
-        break-after: avoid;
+    #directions, #notes, #sources {
+        break-inside: avoid;
     }
 }
