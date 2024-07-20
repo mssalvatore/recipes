@@ -1,0 +1,25 @@
+@page {
+    margin: 0.5in;
+    size: letter portrait;
+    margin-top: 0in;
+}
+
+@media print {
+    body {
+        font-size: 14pt;
+    }
+
+
+    h1 {
+        margin-top: 0;
+    }
+
+    ul, ol{
+        break-before: avoid;
+        break-inside: avoid;
+    }
+
+    #directions, #notes, #tips {
+        break-after: avoid;
+    }
+}
