@@ -31,7 +31,7 @@
    cooked.
 
 
-## Tips
+## Notes
 
 - Use warm water.
 - Cover with a wet towel to keep dough from forming a skin.
