@@ -9,17 +9,20 @@ function formatFractions() {
     }
 }
 
+var left_column = document.createElement("div");
+var right_column = document.createElement("div");
+var outer_section = document.getElementsByClassName("level1")[0];
+var sources = document.getElementById("sources");
+var notes = document.getElementById("notes");
+
 function addColumns() {
     let title = document.createElement("div");
-    let left_column = document.createElement("div");
-    let right_column = document.createElement("div");
 
     title.id = "title";
     left_column.id = "left-column";
     right_column.id = "right-column";
 
     let found_directions = false;
-    let outer_section = document.getElementsByClassName("level1")[0];
 
     let children = outer_section.children;
     let left_column_elements = [];
@@ -60,5 +63,70 @@ function addColumns() {
     outer_section.appendChild(right_column);
 }
 
+function contentFits() {
+    return outer_section.offsetHeight < document.documentElement.clientHeight;
+}
+
+function resetColumns() {
+    if (notes !== null) {
+        right_column.appendChild(notes);
+    }
+
+    if (sources !== null) {
+        right_column.appendChild(sources);
+    }
+}
+
+function fitToPageOnPrint() {
+    /*
+     * This function is called when the page is printed (or the media type is changed to
+     * print). If the recipe cannot fit on a single printed page, this function will
+     * attempt to arrange the notes and sources in the left column. If the recipe still
+     * does not fit on one page, the notes and sources will be moved back to the right
+     * column.
+     */
+   const mql = window.matchMedia("print");
+   mql.onchange = (e) => {
+       if (! e.matches) {
+           return;
+       }
+
+       if (contentFits()) {
+           return;
+       }
+
+       if (sources !== null) {
+           left_column.appendChild(sources);
+
+           if (contentFits()) {
+               return
+           } else {
+               resetColumns();
+           }
+
+           if (notes !== null) {
+               left_column.appendChild(notes);
+
+               if (contentFits()) {
+                   return
+               }
+
+               left_column.appendChild(sources);
+
+               if (! contentFits()) {
+                   resetColumns();
+               }
+           }
+       } else if (notes !== null) {
+           left_column.appendChild(notes);
+
+           if (! contentFits()) {
+               resetColumns();
+           }
+       }
+    };
+}
+
 formatFractions();
 addColumns();
+fitToPageOnPrint();
