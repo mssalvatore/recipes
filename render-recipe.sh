@@ -1,13 +1,12 @@
 #!/bin/bash
+#
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
-
-# TODO: Run shellcheck
-# TODO: Use the script dir instead of ./ for javascript and css
 pandoc \
     --standalone \
     --css=static/recipe.css \
     --css=static/print.css \
-    --include-after-body=static/recipe.js \
+    --include-after-body="$SCRIPT_DIR/include-js.txt" \
     --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js \
     --section-divs \
     --from=markdown \
