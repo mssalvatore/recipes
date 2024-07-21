@@ -1,13 +1,117 @@
 #!/bin/bash
-#
-SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
-pandoc \
-    --standalone \
-    --css=static/recipe.css \
-    --css=static/print.css \
-    --include-after-body="$SCRIPT_DIR/include-js.txt" \
-    --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js \
-    --section-divs \
-    --from=markdown \
-    --to=html "recipes/$1.md"> "html-renders/$1.html"
+umask 077
+
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+SCRIPT_NAME=$(basename "$0")
+HTML_RENDERS_DIR="$PWD/html-renders/"
+RECIPES_DIR="$SCRIPT_DIR/recipes/"
+STATIC_DIR="$SCRIPT_DIR/static/"
+
+function echo_help () {
+    echo "Renders recipes written in markdown to HTML"
+    echo ""
+    echo "Usage:"
+    echo "    ${SCRIPT_NAME} <recipe-name>..."
+    echo "    ${SCRIPT_NAME} --all"
+    echo "    ${SCRIPT_NAME} service -h|--help"
+    echo ""
+    echo "Options:"
+    echo "    --all     Render all recipes in \"${RECIPES_DIR}\""
+    echo "    --help    Show help"
+    echo ""
+    echo "Examples:"
+    echo "  # Render all recipes"
+    echo "  ${SCRIPT_NAME} --all"
+    echo ""
+    echo "  # Render the recipe named \"apple-pie\""
+    echo "  ${SCRIPT_NAME} apple-pie"
+    echo ""
+    echo "  # Render the recipes named \"apple-pie\" and \"bread\""
+    echo "  ${SCRIPT_NAME} apple-pie bread"
+}
+
+function render_recipes () {
+    for recipe_name in "$@"; do
+        render_single_recipe "$recipe_name"
+        success=$?
+
+        if [ $success -ne 0 ]; then
+            return $success
+        fi
+    done
+
+    return 0
+}
+
+function render_single_recipe() {
+    recipe_file="$RECIPES_DIR/$1.md"
+
+    if [ ! -f "$recipe_file" ]; then
+        echo "Recipe \"$1\" not found: No recipe file exists at $recipe_file."
+        return 1
+    fi
+
+    echo "Rendering recipe \"$1\" ($recipe_file) ..."
+    pandoc \
+        --standalone \
+        --css=static/recipe.css \
+        --css=static/print.css \
+        --include-after-body="$SCRIPT_DIR/include-js.txt" \
+        --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js \
+        --section-divs \
+        --from=markdown \
+        --to=html "$recipe_file"> "$HTML_RENDERS_DIR/$1.html"
+
+    return $?
+}
+
+function render_all_recipes() {
+    for file in "$RECIPES_DIR"/*.md; do
+        filename=$(basename -- "$file")
+        render_single_recipe "${filename%.md}"
+    done
+
+    return 0
+}
+
+render_all=false
+recipes=()
+
+if [ "$#" -eq 0 ]; then
+  echo_help
+  exit 1
+fi
+
+while (( "$#" )); do
+    case "$1" in
+        --all)
+            render_all=true
+            shift
+            ;;
+        -h|--help)
+            echo_help
+            exit 0
+            ;;
+        *)
+            recipes+=("$1")
+            shift
+            ;;
+    esac
+done
+
+# shellcheck disable=SC2174
+mkdir -m 700 -p "$HTML_RENDERS_DIR"
+
+if [ ! -e "$HTML_RENDERS_DIR/static" ]; then
+    ln -s "$STATIC_DIR" "$HTML_RENDERS_DIR/static"
+fi
+
+if $render_all; then
+    render_all_recipes
+    exit $?
+else
+    render_recipes "${recipes[@]}"
+    exit $?
+fi
+
