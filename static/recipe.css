@@ -57,14 +57,14 @@ section {
 
 h1 {
     font-size: 2em;
-    margin: 0;
+    margin: 0 0 2px 0;
 }
 
 #title > hr {
-    margin: auto;
-    width: 50%;
     border-top: 4px solid #bbb;;
     border-radius: 3px;
+    margin: auto;
+    width: 50%;
 }
 
 #left-column {
