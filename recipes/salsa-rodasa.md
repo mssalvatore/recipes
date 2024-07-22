@@ -19,7 +19,6 @@ About 1 cup
 
 2. Make a garlic paste add it to the mixture.
 
-3. Add the lime juice. NOTE: This is optional, I'm not yet sold that this makes
-   a noticeable difference.
+3. Add the lime juice (optional).
 
-4. Mix together and let sit in the fridge until flavors blend.
+4. Mix together and let sit in the fridge until the flavors blend.
