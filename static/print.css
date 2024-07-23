@@ -9,16 +9,21 @@
     }
 
     #title {
-        padding: 0;
         border: 0;
+        break-after: avoid;
         margin: 0;
+        padding: 0;
     }
 
     h1 {
-        padding: 0;
+        align-self: start;
         margin-top: 0;
         margin-bottom: 2px;
-        align-self: start;
+        padding: 0;
+    }
+
+    #left-column, #right-column {
+        break-before: avoid;
     }
 
     #directions, #notes, #sources {
