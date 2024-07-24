@@ -19,7 +19,7 @@
 | Ingredient | Quantity |
 | --- | --- |
 |  Allspice berries | 1 $\frac{1}{2}$ tsp |
-|  Black peppercorns | 1 tbsp |
+|  Black peppercorns | 1 Tbsp |
 |  Chopped candied ginger | 1 $\frac{1}{2}$ tsp |
 |  Kosher salt | 1 cup|
 |  Light brown sugar | $\frac{1}{2}$ cup |

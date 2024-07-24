@@ -7,12 +7,12 @@
 | [9-inch pie crust](all-butter-pie-crust.md)| 2 crusts |
 | Brown sugar | 1 cup (firmly packed)|
 | Sliced, peeled peaches | 4 $\frac{1}{2}$ cups |
-| Cornstarch | 3 tbsp|
+| Cornstarch | 3 Tbsp|
 | Ground nutmeg | $\frac{1}{4}$ tsp (or to taste) |
 | Ground cinnamon | $\frac{1}{2}$ tsp (or to taste) |
 | Salt | $\frac{1}{8}$ tsp |
 | Lemon Juice | 2 tsp |
-| Butter | 1 tbsp |
+| Butter | 1 Tbsp |
 | Egg, lightly beaten 🖌️ | 1 egg |
 
 

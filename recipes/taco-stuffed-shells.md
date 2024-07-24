@@ -7,7 +7,7 @@
 | Ingredient | Quantity |
 | --- | --- |
 | Ingredient 1 | 100g |
-| Ingredient 2 | 2 tbsp |
+| Ingredient 2 | 2 Tbsp |
 | Ingredient 3 | 4 tsp |
 
 ### Part 2
