@@ -44,6 +44,13 @@ def format_quotes(match: re.Match) -> str:
 QUOTES: Formatter = (re.compile(r"([”“’‘])"), format_quotes)
 
 
+def format_tbsp(match: re.Match) -> str:
+    return "Tbsp"
+
+
+TBSP: Formatter = (re.compile(r"tbsp"), format_tbsp)
+
+
 def main():
     for recipe in RECIPES_DIR.iterdir():
         if recipe.suffix != ".md":
@@ -56,7 +63,7 @@ def main():
         output = ""
         with open(recipe, "r") as f:
             for line in f.readlines():
-                output += reformat(line, [TEMPERATURE, FRACTIONS, QUOTES])
+                output += reformat(line, [TEMPERATURE, FRACTIONS, QUOTES, TBSP])
 
         with open(recipe, "w") as f:
             f.write(output)
