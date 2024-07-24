@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-| Ingredient | Quantity |
-| --- | --- |
-| Maseca | 130g |
-| Salt | 3g |
-| Water | 200g |
+| Ingredient | Quantity | Doubled | Quadrupled
+| --- | --- | --- | --- |
+| Maseca | 130g | 260g | 520g |
+| Salt | 3g | 6g | 12g |
+| Water | 200g | 400g | 800g |
 
 
 ## Yield
