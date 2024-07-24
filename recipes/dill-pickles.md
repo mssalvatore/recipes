@@ -14,7 +14,7 @@
 
 ## Directions
 
-1. Thoroughly wash cucumbers and slice into 1/4-inch thick slices or spears.
+1. Thoroughly wash cucumbers and slice into $\frac{1}{4}$-inch thick slices or spears.
 
 2. Peel garlic and slice thinly.
 

@@ -29,9 +29,9 @@
 
 5. Optionally add vanilla extract.
 
-6. Chill in refrigerator overnight (1C).
+6. Chill in refrigerator overnight (1°C).
 
-7. Pre-chill a bowl in the freezer (as cold as possible, ideally -30C).
+7. Pre-chill a bowl in the freezer (as cold as possible, ideally -30°C).
 
 8. Churn in an ice cream machine.
 

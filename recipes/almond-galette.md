@@ -65,7 +65,7 @@
    all over with more of the beaten egg, then chill the galette in the fridge
    for 30 minutes.
 
-9. Preheat the oven to 220C/200C Fan/Gas 7.
+9. Preheat the oven to 220°C/200°C Fan/Gas 7.
 
 10. Brush all over the top of the chilled galette again with the remaining
     beaten egg, then score it with a criss-cross pattern using the tip of a

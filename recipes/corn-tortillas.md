@@ -37,4 +37,4 @@
 - Cover with a wet towel to keep dough from forming a skin.
 - If making garnachas, about 1min per side is probably enough. Form into bowls
   while tortilla is still hot.
-- The comal/griddle should be approximately 500F.
+- The comal/griddle should be approximately 500°F.

@@ -37,7 +37,7 @@
    pan. Cover the loaves with a damp towel or cloth to prevent a skin from
    forming. Allow the dough to proof until it fills the pan.
 
-9. Preheat the oven  to 425F for 45 minutes prior to baking with a baking stone
+9. Preheat the oven  to 425°F for 45 minutes prior to baking with a baking stone
    (or an overturned cast-iron skillet to server as a baking stone). Place a
    pan full of lava rocks on the bottom rack of the oven. This will be used to
    create steam during baking.
@@ -49,7 +49,7 @@
     to the lava rocks if they're dry to create steam. Allow the loaves to bake
     in the steamy oven for 20 minutes.
 
-12. After 20 minutes, remove the steam and reduce the temperature to 375F. Bake
+12. After 20 minutes, remove the steam and reduce the temperature to 375°F. Bake
     for another 20 minutes or until the edges start to catch or the crust
     reaches the desired color.
 

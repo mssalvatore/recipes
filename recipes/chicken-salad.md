@@ -7,29 +7,29 @@
 | Ingredient | Quantity |
 | --- | --- |
 | Chicken breasts, cooked and chopped | 3 heaping cups |
-| Almonds, sliced | 1/2 cup |
-| Celery, diced | 1/3 cup |
-| Dried cranberries | 1/2 cup |
+| Almonds, sliced | $\frac{1}{2}$ cup |
+| Celery, diced | $\frac{1}{3}$ cup |
+| Dried cranberries | $\frac{1}{2}$ cup |
 
 ### Dressing
 
 | Ingredient | Quantity |
 | --- | --- |
-| Mayonnaise | 3/4 cup |
+| Mayonnaise | $\frac{3}{4}$ cup |
 | Lemon juice | 2 Tbsp |
 | Honey | 1 Tbsp |
 | Apple cider vineger | 1 tsp |
-| Dry ground mustard | 1/2 tsp |
-| Onion powder | 1/2 tsp |
-| Rosemary, crushed | 1/2 tsp |
-| Salt | 1/2 tsp or to taste |
-| Basil, dried | 1/4 tsp |
-| Pepper | 1/4 tsp or to taste |
+| Dry ground mustard | $\frac{1}{2}$ tsp |
+| Onion powder | $\frac{1}{2}$ tsp |
+| Rosemary, crushed | $\frac{1}{2}$ tsp |
+| Salt | $\frac{1}{2}$ tsp or to taste |
+| Basil, dried | $\frac{1}{4}$ tsp |
+| Pepper | $\frac{1}{4}$ tsp or to taste |
 
 
 ## Directions
 
-1. Preheat oven to 350F.
+1. Preheat oven to 350°F.
 
 2. Brown almonds on a baking sheet for 3—4 minutes or until lightly golden
    brown. Remove to cool.

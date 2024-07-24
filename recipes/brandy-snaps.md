@@ -19,7 +19,7 @@
 
 ## Directions
 
-1. Preheat the oven to 180C/350F/Gas
+1. Preheat the oven to 180°C/350°F/Gas
 
 2. Line two baking trays with baking   parchment then oil a thickish handle of
    a wooden spoon and lay it on a cooling rack. 
