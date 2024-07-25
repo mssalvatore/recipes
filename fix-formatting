@@ -40,7 +40,7 @@ def format_temperature(match: re.Match) -> str:
 
 
 FORMATTERS: Final[Sequence[Formatter]] = [
-    (re.compile(r"(\d+)/(\d+)"), format_fractions),
+    (re.compile(r"(\d+)[/\\](\d+)"), format_fractions),
     (re.compile(r"([”“’‘])"), format_quotes),
     (re.compile(r"tbsp"), format_tbsp),
     (re.compile(r"(\d+)\s?([CF])\b"), format_temperature),
