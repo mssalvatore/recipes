@@ -47,7 +47,7 @@
 
 11. Score the loaves as desired and place on the baking stone. Add more water
     to the lava rocks if they're dry to create steam. Allow the loaves to bake
-    in the steamy oven for 20 minutes.
+    at 425°F in the steamy oven for 20 minutes.
 
 12. After 20 minutes, remove the steam and reduce the temperature to 375°F. Bake
     for another 20 minutes or until the edges start to catch or the crust
@@ -55,6 +55,12 @@
 
 13. Remove the loaves from the oven and gently turn them out of the pans onto a
     cooling rack. Allow the loaves to cool before eating (at least two hours).
+
+## Notes
+- Tap water can contain chlorine, which can kill the natural yeast and bacteria
+  in the starter and prevent the bread from rising; use only filtered water.
+- Use salt that contains no anticaking agent.
+- If the crust is too thick or crunchy, reduce the temperature by 25-50°F.
 
 ## Sources
 
