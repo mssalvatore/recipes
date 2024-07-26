@@ -40,3 +40,8 @@
    Strain the pasta and add to the pot with the rest of the soup. Allow the
    soup to simmer until the pasta is al dente
 
+## Notes
+
+- Don't skimp on the oregano; it's the key to the flavor.
+- You can leave out the ditalini and instead server it over rice. This is known
+  as "impostor faisole".
