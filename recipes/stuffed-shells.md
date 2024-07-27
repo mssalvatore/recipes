@@ -45,3 +45,4 @@
 ## Notes
 - There are approximately 47 jumbo shells in a 12 oz box (Barilla brand).
 - Make extra shells. They are sometimes prone to breaking when you fill them.
+- To add some spice, mix 1 Tbsp of red or black pepper into the filling.
