@@ -1,4 +1,4 @@
-# Salsa Rodasa (Salsa Golf, Mayochup)
+# Salsa Rodasa (Salsa Golf, Mayochup, Pink Sauce)
 
 ## Ingredients
 
