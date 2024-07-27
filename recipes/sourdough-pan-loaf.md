@@ -16,13 +16,14 @@
 2 loaves
 
 ## Directions
-1. Mix the flour and water in a bowl until it comes together into a shaggy
-   mass.
+1. Mix the flour, water, and salt in a bowl until it comes together into a
+   shaggy mass.
 
 2. Let the dough sit overnight. If possible, fold it a few times to better
-   hydrate all the flour.
+   hydrate all the flour. If you don't have all night, mix in the starter now
+   (step 3) and allow it to sit for about 1 hour.
 
-3. Mix in the starter and salt.
+3. Mix in the starter and allow it to sit for about 1 hour.
 
 4. Use slap-and-fold or any other kneading technique until the dough can pass
    the window pane test.
