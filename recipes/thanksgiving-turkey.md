@@ -83,7 +83,8 @@
   steps of the recipe.
 
 - Coat the turkey with warm (still solid) butter on top of and underneath the
-  skin. This helps seal in moisture to prevent the bird from drying out.
+  skin. This helps seal in moisture to prevent the bird from drying out. Go
+  nuts! You can't use too much.
 
 ## Sources
 
