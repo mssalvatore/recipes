@@ -10,6 +10,7 @@
 | Parsley | 5 tsp | 10 tsp |
 | Pasta shells (jumbo) | 20 shells | 40 shells |
 | Pecorino romano (grated) | 80g | 160g |
+| Red/Black pepper (Optional) | 1Tbsp | 2Tbsp |
 | Ricotta | 525g | 1050g |
 
 
@@ -28,7 +29,8 @@
 
 3. Beat the eggs until smooth.
 
-4. In a large bowl, mix the ricotta, beaten eggs, pecorino romano, and parsley.
+4. In a large bowl, mix the ricotta, beaten eggs, pecorino romano, parsley, and
+   pepper (optional).
 
 5. Coat the bottom and sides of a baking dish with a thin layer of marinara to
    keep the shells from sticking to the dish.
