@@ -7,10 +7,10 @@
 | Black pepper | To taste |
 | Broccoli floret | 3.5 cups|
 | Chicken breast (cubed) | 2.5 cups |
-| Garlic | 9 cloves |
+| Garlic | 10 cloves |
 | Olive oil | As needed |
 | Oregano | To taste |
-| Pasta (dry) | 180g |
+| Pasta (dry) | 200g |
 | Pecorino romano | 6 Tbsp |
 | Red pepper (optional) | 2 Tbsp |
 | Salt | To taste |
