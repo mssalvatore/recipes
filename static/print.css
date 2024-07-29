@@ -1,6 +1,6 @@
 @page {
     margin: 0.2in;
-    size: letter landscape;
+    size: letter portrait;
 }
 
 @media print {
