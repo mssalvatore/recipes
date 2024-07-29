@@ -1,9 +1,9 @@
 function formatFractions() {
     let spans = document.querySelectorAll("span");
     for(let i = 0; i < spans.length; i ++) {
-        span = spans[i];
+        let span = spans[i];
         if (span.innerHTML.includes("\\frac")) {
-            container = spans[i].parentElement;
+            let container = span.parentElement;
             container.innerHTML = container.innerHTML.replace(" " + span.outerHTML, span.outerHTML)
         }
     }
