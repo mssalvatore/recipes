@@ -30,7 +30,7 @@
         break-inside: avoid;
     }
 
-    ul, ol{
+    ol, ul {
         break-before: avoid;
         break-inside: avoid;
     }
