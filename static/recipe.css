@@ -22,6 +22,10 @@ table, th, td {
     border-style: double;
 }
 
+th {
+    font-weight: 650;
+}
+
 td, th {
     padding: 0.5rem;
 }
