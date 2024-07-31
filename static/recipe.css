@@ -22,7 +22,7 @@ table, th, td {
     border-style: double;
 }
 
-td {
+td, th {
     padding: 0.5rem;
 }
 
