@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-| Ingredient | Quantity | Doubled | Quadrupled
+| Ingredient | Quantity | Doubled | Quad.
 | --- | --- | --- | --- |
 | Maseca | 130g | 260g | 520g |
 | Salt | 3g | 6g | 12g |
