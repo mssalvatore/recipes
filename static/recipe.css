@@ -85,6 +85,11 @@ h2 {
     margin: 0;
 }
 
+#ingredients > h2:has(+table) {
+    margin-bottom: 0.8rem;
+}
+
+
 .level2 {
     margin-bottom: 16px;
 }
