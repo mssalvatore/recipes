@@ -7,7 +7,7 @@
 | Ingredient | Quantity |
 | --- | --- |
 | [Homemade puff pastry](homemade-puff-pastry.md) | 750g |
-| Plain flour (for dusting) | N/A |
+| All-purpose flour (for dusting) | N/A |
 | Egg, lightly beaten 🖌️ | 1 egg |
 
 

@@ -6,7 +6,7 @@
 | --- | --- |
 | Powdered sugar | $\frac{1}{2}$ cup |
 | Butter, softened | 1 cup |
-| Flour | 2 cups |
+| All-purpose Flour | 2 cups |
 
 ## Directions
 

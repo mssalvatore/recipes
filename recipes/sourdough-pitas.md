@@ -4,7 +4,7 @@
 
 | Ingredient | Quantity | Doubled |
 | --- | --- | --- |
-| Bread/plain flour | 500g | 1000g|
+| Bread/All-purpose flour | 500g | 1000g |
 | Olive Oil | 15g | 30g |
 | Salt | 9g | 18g |
 | Sourdough starter (100% hydration)  | 20g | 40g |

@@ -10,7 +10,7 @@
 | Sugar | 1 $\frac{1}{2}$ cups |
 | Eggs | 3 |
 | Vanilla | 1 $\frac{1}{2}$ tsp |
-| Flour | 3 $\frac{1}{2}$ cups |
+| All-purpose flour | 3 $\frac{1}{2}$ cups |
 | Baking powder | 1 $\frac{1}{2}$ tsp |
 | Baking soda | 1 $\frac{1}{2}$ tsp |
 | Salt | $\frac{3}{4}$ tsp |
@@ -22,7 +22,7 @@
 | --- | --- |
 | Butter | 2 Tbsp |
 | Brown sugar, packed | $\frac{1}{3}$ cup |
-| Flour | 1 Tbsp |
+| All-purpose flour | 1 Tbsp |
 | Cinnamon | $\frac{1}{2}$ tsp |
 | Nutmeg | $\frac{1}{4}$ tsp |
 | Apples, diced and peeled | 2 cups |

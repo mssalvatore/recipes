@@ -7,7 +7,7 @@
 | Ingredient | Quantity |
 | --- | --- |
 | Butter | $\frac{1}{2}$ cup |
-| Sifted flour | 1 cup |
+| All-purpose flour, sifted | 1 cup |
 | Powdered sugar | $\frac{1}{4}$ cup |
 
 ### Lemon topping
@@ -18,7 +18,7 @@
 | Sugar | 1 cup |
 | Salt | $\frac{1}{4}$ tsp |
 | Baking powder | $\frac{1}{2}$ tsp |
-| Flour | 2 Tbsp |
+| All-purpose flour | 2 Tbsp |
 | Lemon juice | 3 Tbsp |
 
 ## Directions

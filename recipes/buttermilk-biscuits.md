@@ -4,7 +4,7 @@
 
 | Ingredient | Quantity |
 | --- | --- |
-| Flour | 2 cups |
+| All-purpose flour | 2 cups |
 | Baking powder | 4 tsp |
 | Sugar | 3 tsp |
 | Salt | $\frac{1}{2}$ tsp |

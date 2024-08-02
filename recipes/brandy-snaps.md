@@ -4,12 +4,12 @@
 
 | Ingredient | Quantity |
 | --- | --- |
+| All-purpose flour | 50g |
 | Butter | 55g |
-| Demarara sugar | 55g |
+| Demerara sugar | 55g |
 | Golden syrup (light treacle) | 55g |
 | Ground ginger | $\frac{1}{2}$ tsp |
 | Lemon juice | $\frac{1}{2}$ tsp |
-| Plainflour | 50g |
 
 
 ## Yield
