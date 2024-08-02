@@ -1,52 +1,35 @@
-# Taco Stuffed Shells
+# Taco Seasoning
 
 ## Ingredients
 
-### Part 1
-
 | Ingredient | Quantity |
 | --- | --- |
-| Ingredient 1 | 100g |
-| Ingredient 2 | 2 Tbsp |
-| Ingredient 3 | 4 tsp |
-
-### Part 2
-
-| Ingredient | Quantity |
-| --- | --- |
-| Ingredient 4 | 1 unit |
-| Ingredient 5 | 1 $\frac{3}{4}$ cups |
+| Black pepper | $\frac{3}{4}$ tsp |
+| Chili powder| 3 Tbsp |
+| Cumin | 1 $\frac{1}{2}$ tsp|
+| Garlic powder | 3 tsp |
+| Onion powder | 1 $\frac{1}{2}$ tsp |
+| Oregano | 1 $\frac{1}{2}$ tsp |
+| Paprika | 3 tsp |
+| Salt | 1 $\frac{1}{4}$ tsp |
 
 
 ## Yield
 
-X things
+About 7 Tbsp (enough for 2 lbs ground beef)
 
 
 ## Directions
 
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-   consequat.
+1. Mix the ingredients in a bowl.
 
-2. Duis aute irure dolor in reprehenderit in voluptate velit esse
-   cillum dolore eu fugiat nulla pariatur.
-
-3. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-   deserunt mollit anim id est laborum.
-
+2. Use immediately or store in an airtight container.
 
 ## Notes
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-   tempor incididunt ut labore et dolore magna aliqua.
 
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-  aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in
-  voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Use approximately 3 Tbsp per 1 lb of ground beef.
 
 
 ## Sources
 
-- <https://www.my.recipe/food1/>
-- <https://www.my.recipe/food2/>
+- <https://foodbabe.com/homemade-taco-seasoning-recipe-replace-packets-full-of-processed-ingredients/>
