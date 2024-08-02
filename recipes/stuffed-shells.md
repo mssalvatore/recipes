@@ -25,7 +25,7 @@
 
 2. Cook the shells in salted water according to the package instructions. Stir
    often to keep the shells from sticking to the bottom. Drain the shells when
-   al dente and set them aside to cool.
+   molto al dente and set them aside to cool.
 
 3. Beat the eggs until smooth.
 
