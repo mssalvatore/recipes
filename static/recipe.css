@@ -27,7 +27,7 @@ th {
 }
 
 td, th {
-    padding: 0.5rem;
+    padding: 0.4rem;
 }
 
 tbody tr:nth-child(even) {

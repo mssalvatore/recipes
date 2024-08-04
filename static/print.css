@@ -34,4 +34,13 @@
         break-before: avoid;
         break-inside: avoid;
     }
+    td, th {
+        /*
+         * The problem being solved by this is that the mathjax fractions are
+         * taller than the line height. This results in table rows containing
+         * fractions being taller than those without. This value was
+         * experimentally determined to resolve the issue.
+         */
+        line-height: 1.71;
+    }
 }
