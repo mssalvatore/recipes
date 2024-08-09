@@ -2,8 +2,6 @@
 
 ## Ingredients
 
-### Part 1
-
 | Ingredient | Quantity |
 | --- | --- |
 | Heavy cream | 180 ml ($\frac{3}{4}$ cup) |
