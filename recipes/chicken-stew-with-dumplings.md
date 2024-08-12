@@ -13,6 +13,7 @@
 | Beef consommé | 2 cans (10 $\frac{1}{2}$ oz each) |
 | Water | 4 cups + $\frac{2}{3}$ cup |
 | Salt | 2 tsp |
+| Pepper | $\frac{1}{4}$ tsp |
 | Chicken| 3 cups |
 | Green beans | 2 cups |
 | Flour | $\frac{1}{2}$ cup |
