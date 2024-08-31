@@ -21,16 +21,18 @@
 2. Measure out the rice and pour it into a fine-mesh strainer. Rinse the rice
    until the water runs clear. Set aside.
 
-3. In a medium pot heat enough olive oil to cover the bottom of the pot. Pour
+3. Measure out the water. Set aside
+
+4. In a medium pot heat enough olive oil to cover the bottom of the pot. Pour
    the pressed garlic in and stir with a spatula. Sprinkle some salt and keep
    the garlic moving with the spatula.
 
-4. Just as the garlic begins to brown, quickly mix in the rice to prevent the
+5. Just as the garlic begins to brown, quickly mix in the rice to prevent the
    garlic from burning.
 
-5. Measure out the water and add it to the pot with the rice and garlic. Stir
-   the ingredients together and simmer until all of the water is absorbed
-   (15-20 minutes).
+6. Add the water and stir the ingredients together.
 
-6. Mix in the salt and butter (optional) and fluff the rice with a fork. Adjust
-   seasoning to taste.
+7. Simmer uncovered until all of the water is absorbed (15-20 minutes).
+
+8. Mix in the salt (and optional butter) and fluff the rice with a fork. Adjust
+   the seasoning to taste.
