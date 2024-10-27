@@ -1,4 +1,4 @@
-# Whipped cream
+# Whipped Cream
 
 ## Ingredients
 
