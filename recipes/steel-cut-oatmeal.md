@@ -16,7 +16,7 @@ Feeds 6
 
 ## Directions
 
-1. Set the burner to low-medium and add 2/3 of the milk to a pot.
+1. Set the burner to low-medium and add $\frac{2}{3}$ of the milk to a pot.
 
 2. Heat the milk until some steam or bubbles form (about 7 minutes).
 
