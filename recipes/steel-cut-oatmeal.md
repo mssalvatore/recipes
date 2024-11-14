@@ -25,3 +25,5 @@ Feeds 6
 4. Turn the heat down to low, uncover, and cook for about 15 minutes. Stir
    occasionally. Add milk a little at a time until the desired consistency is
    reached.
+
+5. Mix in the butter and salt. Stir well and serve.
