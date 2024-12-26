@@ -1,4 +1,4 @@
-# Cesar Salad
+# Caesar Salad
 
 ## Ingredients
 
