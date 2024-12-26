@@ -10,7 +10,7 @@
 | Garlic | 12g |
 | Pecorino Romano | 113g |
 | Lemon juice | 1.5 lemons |
-| Olive Oil | 83g |
+| Olive oil | 83g |
 | Worcestershire sauce | 10g |
 
 ### Salad
@@ -18,7 +18,7 @@
 | Ingredient | Quantity |
 | --- | --- |
 | Romaine lettuce hearts | 3 hearts |
-| Parmesan cheese (Shaved) | 71g |
+| Parmesan cheese (shaved) | 71g |
 | Croutons | 128g |
 
 
@@ -33,5 +33,5 @@
 
 4. Add the dressing little by little and toss the salad until the salad is
    sufficiently dressed. You may wish to hold some dressing back so as not to
-   "over dress" the salad.
+   "overdress" the salad.
 
