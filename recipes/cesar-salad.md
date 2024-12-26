@@ -19,7 +19,7 @@
 | --- | --- |
 | Romaine lettuce hearts | 3 hearts |
 | Parmesan cheese (Shaved) | 71g |
-| Croutons | To taste |
+| Croutons | 128g |
 
 
 ## Directions
