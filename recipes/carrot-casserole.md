@@ -9,7 +9,7 @@
 | Butter (for topping) | $\frac{1}{4}$ cup |
 | Cheddar cheese | 6 oz |
 | Dill | $\frac{1}{4}$ tsp |
-| Crushed saltines SUPERDUP LONG STUFF | $\frac{1}{2}$ cup (about 15 crackers) |
+| Crushed saltines | $\frac{1}{2}$ cup (about 15 crackers) |
 
 ## Directions
 
