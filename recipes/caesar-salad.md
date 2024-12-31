@@ -8,9 +8,9 @@
 | --- | --- |
 | Egg yolk | 2 yolks |
 | Garlic | 12g |
-| Pecorino Romano | 113g |
+| Pecorino Romano | 100g |
 | Lemon juice | 1.5 lemons |
-| Olive oil | 83g |
+| Olive oil | 85g |
 | Worcestershire sauce | 10g |
 
 ### Salad
