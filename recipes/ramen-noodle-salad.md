@@ -9,6 +9,7 @@
 | Butter | 2 Tbsp |
 | Ramen noodles | 3 oz package |
 | Sesame seeds | 3 Tbsp |
+| Sliced almonds | $\frac{1}{2}$ cup |
 | Cabbage and/or spinach | 1 $\frac{1}{2}$ lbs |
 | Green onions | $\frac{1}{2}$ cup |
 
@@ -35,3 +36,7 @@
 3. Shred the cabbage and slice the onions. Combine in a large mixing bowl. Add
    the noodle mixture. Pour the dressing over the salad and toss well to
    combine. 
+
+## Sources
+
+-https://barefeetinthekitchen.com/ramen-noodle-salad/#wprm-recipe-container-27405
