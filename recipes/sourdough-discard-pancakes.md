@@ -2,17 +2,17 @@
 
 ## Ingredients
 
-| Ingredient | Quantity |
-| --- | --- |
-| All-purpose flour | 2 cups (260g) |
-| Baking powder | 2 tsp (10g) |
-| Baking soda | 1 tsp (6g) |
-| Granulated sugar | 2 Tbsp (30g) |
-| Salt | 1 tsp (6g) |
-| Sourdough discard, room temp | 1 cup (250g) |
-| Milk, room temp | 1 $\frac{1}{2}$ cups (12 oz) |
-| Egg, beaten | 1 large egg |
-| Coconut oil, melted | 2 Tbsp (24g) |
+| Ingredient | Quantity | Doubled |
+| --- | --- | --- | 
+| All-purpose flour | 1 cup (130g) | 2 cups (260g) |
+| Baking powder | 1 tsp (5g) | 2 tsp (10g) |
+| Baking soda | $\frac{1}{2}$ tsp (3g) | 1 tsp (6g) |
+| Granulated sugar | 1 Tbsp (15g) | 2 Tbsp (30g) |
+| Salt | $\frac{1}{2}$ tsp (3g) | 1 tsp (6g) |
+| Sourdough discard, room temp | $\frac{1}{2}$ cup (125g) | 1 cup (250g) |
+| Milk, room temp | $\frac{3}{4}$ cup (6oz) | 1 $\frac{1}{2}$ cups (12 oz) |
+| Egg, beaten | 1 large egg | 1 large egg |
+| Coconut oil, melted | 1 Tbsp (12g) | 2 Tbsp (24g) |
 
 ## Directions
 
