@@ -30,7 +30,7 @@
 5. Mix the seasoning sauce into the beef until the beef is thoroughly coated.
    Simmer until the excess moisture has evaporated.
 
-6. Coat the bottom and sides of a baking dish with a thin layer of marinara to
+6. Coat the bottom and sides of a baking dish with a thin layer of salsa to
    keep the shells from sticking to the dish.
 
 7. Spoon the ground beef into the shells and place them in the baking dish. Do
