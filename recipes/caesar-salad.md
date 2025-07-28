@@ -7,7 +7,7 @@
 | Ingredient | Quantity |
 | --- | --- |
 | Egg yolk | 2 yolks |
-| Garlic | 12g |
+| Garlic | 16g |
 | Pecorino Romano | 100g |
 | Lemon juice | 1.5 lemons |
 | Olive oil | 85g |
