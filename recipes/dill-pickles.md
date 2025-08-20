@@ -4,7 +4,7 @@
 
 | Ingredient | Quantity |
 | --- | --- |
-| Pickling cucumbers | 10-12 cumbers |
+| Pickling cucumbers | 10-12 cucumbers |
 | Water | 4 cups |
 | White vinegar | 2 cups |
 | Pickling salt | 2 tsp
