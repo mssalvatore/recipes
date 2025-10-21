@@ -33,3 +33,5 @@
 ## Notes
 - The dish is called "baked ziti", but I prefer rigatoni.
 - Don't use canned sauce! [Make your own](meat-sauce.md).
+- Buy fresh mozzarella and shred it yourself. Don't use the stale, cellulosed,
+  pre-shredded stuff.
