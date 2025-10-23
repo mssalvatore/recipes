@@ -21,7 +21,8 @@
 
 3. Put a layer of pasta in the bottom of the dish. Layer the ricotta, pecorino
    romano, sauce and mozzarella on top. Repeat until the ingredients are used
-   up or there's no more space in the pan.
+   up or there's no more space in the pan. Finish with a layer of sauce to
+   prevent cheese from sticking to the aluminum foil.
 
 4. Cover with foil and bake at 375°F for 30-40 minutes or until the sides
    bubble.
