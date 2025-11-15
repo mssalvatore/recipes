@@ -36,3 +36,16 @@
 - Don't use canned sauce! [Make your own](meat-sauce.md).
 - Buy fresh mozzarella and shred it yourself. Don't use the stale, cellulosed,
   pre-shredded stuff.
+- Normally, the layers, from bottom to top, go:
+    - Thin layer of sauce
+    - Pasta
+    - Ricotta
+    - Pecorino Romano
+    - Sauce
+    - Mozzarella
+    - Pasta
+    - Ricotta
+    - Pecorino Romano
+    - Sauce
+    - Mozzarella
+    - Thin layer of sauce
