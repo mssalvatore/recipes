@@ -6,7 +6,7 @@
 | Ingredient | Quantity |
 | --- | --- |
 | Butter (optional) | 60g |
-| Garlic | 7 cloves |
+| Garlic | 28g (about 7 cloves) |
 | Olive oil | As needed |
 | Rice | 450g |
 | Salt | 5g |
