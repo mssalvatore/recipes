@@ -64,14 +64,14 @@
    water) to the turkey's cavity, along with the rosemary and sage. Tuck the
    wings underneath the bird and coat the skin lightly with butter.
 
-9. Roast on the lowest level of the oven for 30 minutes. After 30 minutes, open
-   the oven and slide the rack out to access the turkey. Working quickly,
-   insert a probe thermometer into the thickest part of the breast, avoiding
-   any bones, and top with the turkey triangle. Slide the turkey back into the
-   oven and reduce the oven temperature to 350°F. Set an alarm on the probe to
-   go off at 155°F. A 14- to 16-pound turkey should take an additional 90
-   minutes to 2 hours, but the temperature of the meat is more important than
-   the time it takes to get there, so pay attention to the probe.
+9. Roast on the lowest level of the oven for 30 minutes at 500°F. After 30
+   minutes, open the oven and slide the rack out to access the turkey. Working
+   quickly, insert a probe thermometer into the thickest part of the breast,
+   avoiding any bones, and top with the turkey triangle. Slide the turkey back
+   into the oven and reduce the oven temperature to 350°F. Set an alarm on the
+   probe to go off at 155°F. A 14- to 16-pound turkey should take an additional
+   90 minutes to 2 hours, but the temperature of the meat is more important
+   than the time it takes to get there, so pay attention to the probe.
 
 10. Let the turkey rest, still on the roasting pan covered with foil for at
     least 15 minutes longer before transferring to a cutting board and carving.
