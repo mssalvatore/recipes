@@ -73,8 +73,8 @@
    90 minutes to 2 hours, but the temperature of the meat is more important
    than the time it takes to get there, so pay attention to the probe.
 
-10. Let the turkey rest, still on the roasting pan covered with foil for at
-    least 15 minutes longer before transferring to a cutting board and carving.
+10. Let the turkey rest in the roasting pan covered with foil for at least 15
+    minutes longer before transferring to a cutting board and carving.
 
 ## Notes
 
