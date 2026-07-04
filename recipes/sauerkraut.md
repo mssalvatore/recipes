@@ -24,8 +24,9 @@
 1. Squeeze the cabbage, hard, with your hands for 5-10 minutes. Allow the
    cabbage to sit for another 10-15 minutes. Repeat as necessary until a
    sufficient amount of liquid has been extracted from the cabbage.
-1. Put the cabbage into a $\frac{1}{2}$ gallon mason jar. Use a wooden tamper to pack the
-   cabbage tightly into the jar.
+1. Mix the sliced garlic in with the cabbage.
+1. Put the cabbage and garlic mixture into a $\frac{1}{2}$ gallon mason jar.
+   Use a wooden tamper to pack the cabbage tightly into the jar.
 1. Pour enough brine from the pot into the jar to cover all of the cabbage.
    Leave 1 inch of head space.
 1. Put the leaf that was saved in step 2 on top of the cabbage in the jar to
@@ -33,9 +34,6 @@
    fermentation weight on top.
 1. Seal the jar with an air-lock lid and leave to ferment until the desired
    flavor has developed (about 3 weeks).
-
-
-
 
 
 ## Notes
